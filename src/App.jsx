@@ -35,12 +35,12 @@ function App() {
             </li>
           </ul>
         </nav>
-
+        {/* 
         <Routes>
           <Route path="/about" element={<About />} />
           <Route path="/users" element={<Users />} />
           <Route path="/" element={<Home />} />
-        </Routes>
+        </Routes> */}
       </div>
     </Router>
   );
